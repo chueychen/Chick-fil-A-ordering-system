@@ -16,8 +16,7 @@ https://codeinplace.stanford.edu/cip5/share/1g8yjaqCu0mh1L67bWk3
 
 ## Demo Video
 
-Watch the walkthrough video:  
-https://youtube.com/YOUR_VIDEO_LINK
+[![Watch the demo](https://img.youtube.com/vi/1eKxoa9NToI/0.jpg)](https://www.youtube.com/watch?v=1eKxoa9NToI)
 
 ---
 
